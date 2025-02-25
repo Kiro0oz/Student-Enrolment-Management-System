@@ -7,7 +7,7 @@ public class Student {
     private String firstName;
     private String lastName;
     private int gradeYear;
-    private static int id = 2024000;
+    private static int id = 2025000;
     private int studentID;
     private List<String> courses = new ArrayList<>();
     private static final int COST_OF_COURSE = 600;
